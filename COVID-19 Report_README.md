@@ -2,7 +2,7 @@
 
 This Power BI report offers a comprehensive overview of the COVID-19 pandemic, drawing data from the trusted source [Worldometers](https://www.worldometers.info).
 
-## Key Features:
+## 🚀 Key Features:
 
 - **Live Data:** Stay updated with the latest global figures on confirmed cases, recovered individuals, fatalities, and daily new cases and deaths. 
   
@@ -11,16 +11,16 @@ This Power BI report offers a comprehensive overview of the COVID-19 pandemic, d
   
 - **Continent-Based Analysis:** Dive deeper into the data with a bar chart that compares total cases across different continents. Further drill down to explore specific countries within each continent.
 
-## Key Statistics:
+## 📊 Key Statistics:
 - Total Confirmed Cases: XXXX
 - Total Recovered: XXXX
 - Total Fatalities: XXXX
 - Daily New Cases: XXXX
 - Daily New Deaths: XXXX
 
-## Technologies Used:
+## 💻 Technologies Used:
 - Power BI
 
-## Report Link:
+## 📄 Report Link:
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiOGU5ZGIyMWEtYWY4OC00Yzc2LTljMTMtNjJhOWZiNGU0MjExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 

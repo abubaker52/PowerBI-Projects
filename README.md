@@ -21,3 +21,6 @@ This Power BI report offers a comprehensive overview of the COVID-19 pandemic, d
 ## Technologies Used:
 - Power BI
 
+## Report Link:
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiOGU5ZGIyMWEtYWY4OC00Yzc2LTljMTMtNjJhOWZiNGU0MjExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
